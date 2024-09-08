@@ -1,12 +1,32 @@
-This project is based on a tutorial by Alex The Analyst, demonstrating effective data cleaning techniques. The dataset was cleaned following the tutorial’s steps, resulting in a 
-high-quality dataset suitable for further analysis.
+# Data Cleaning Project
 
-Key steps and accomplishments:
+This project is based on a tutorial by Alex The Analyst, demonstrating effective data cleaning techniques. The dataset was cleaned following the tutorial’s steps, resulting in a high-quality dataset suitable for further analysis.
 
-1. Duplicates removal: Identified and removed duplicate records to ensure the integrity of the dataset.
-2. Data standardization: Ensured consistency by standardizing text data across multiple columns, such as company names, industries, and countries, which were initially inconsistent and 
-unstructured.
-3. Null and blank values handling: Managed missing and blank data.
-4. Redundant columns removal: Analyzed and removed irrelevant or redundant columns that did not contribute to the overall analysis, improving the dataset’s efficiency.
+## Key Steps and Accomplishments
 
-Thanks to this project, I gained hands-on experience with data cleaning methodologies and improved my proficiency in using MySQL for data manipulation.
+1. **Duplicates Removal:**
+   - Identified and removed duplicate records to ensure the integrity of the dataset.
+
+2. **Data Standardization:**
+   - Ensured consistency by standardizing text data across multiple columns, including company names, industries, and countries, which were initially inconsistent and unstructured.
+
+3. **Null and Blank Values Handling:**
+   - Managed missing and blank data effectively to maintain data quality.
+
+4. **Redundant Columns Removal:**
+   - Analyzed and removed irrelevant or redundant columns that did not contribute to the overall analysis, improving the dataset’s efficiency.
+
+## Skills and Tools
+
+- **Data Cleaning Methodologies:** Gained hands-on experience with essential data cleaning techniques.
+- **MySQL:** Improved proficiency in using MySQL for data manipulation.
+
+## Project Outcomes
+
+This project resulted in a clean, well-structured dataset ready for analysis. The process provided valuable experience in applying data cleaning methodologies and working with MySQL.
+
+## Repository Structure
+
+- `data/`: Contains the original dataset.
+- `project_script/`: Includes SQL script used for data cleaning.
+- `README.md`: This file, describing the project and its key aspects.
