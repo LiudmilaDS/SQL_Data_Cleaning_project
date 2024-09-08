@@ -27,6 +27,6 @@ This project resulted in a clean, well-structured dataset ready for analysis. Th
 
 ## Repository Structure
 
-- `data/`: Contains the original dataset.
-- `project_script/`: Includes SQL script used for data cleaning.
+- `data.csv`: Contains the original dataset.
+- `project_script.sql`: Includes SQL script used for data cleaning.
 - `README.md`: This file, describing the project and its key aspects.
